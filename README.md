@@ -1,6 +1,7 @@
 ### Hello Word! Seja bem vindo!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luandev33&langs_count=8)](https://github.com/luandev33/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luandev33&layout=compact)](https://github.com/luandev33/github-readme-stats)
+
 
 ##
 <div style="display: inline_block"><br>
