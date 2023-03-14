@@ -1,4 +1,4 @@
-### Hello Word! Seja bem vindo!
+### Hello World! Seja bem vindo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luandev33&layout=compact)](https://github.com/luandev33/github-readme-stats)
 
