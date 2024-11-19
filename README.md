@@ -7,10 +7,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
+  <img align="center" alt="Luan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img align="center" alt="Luan-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+  <img align="center" alt="Luan-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
 </div>
 
 ##
@@ -22,7 +21,7 @@
 </div>
 
 ##
-![ScalerCreateImpactGIF](https://user-images.githubusercontent.com/63981424/220037247-8cc3bb96-fc41-4c63-a35c-75f7c4cd458f.gif)
+
 
 
 
